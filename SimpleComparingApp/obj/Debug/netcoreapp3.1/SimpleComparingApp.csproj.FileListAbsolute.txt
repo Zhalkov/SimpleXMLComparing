@@ -1,0 +1,16 @@
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\bin\Debug\netcoreapp3.1\SimpleComparingApp.exe
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\bin\Debug\netcoreapp3.1\SimpleComparingApp.deps.json
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\bin\Debug\netcoreapp3.1\SimpleComparingApp.runtimeconfig.json
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\bin\Debug\netcoreapp3.1\SimpleComparingApp.runtimeconfig.dev.json
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\bin\Debug\netcoreapp3.1\SimpleComparingApp.dll
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\bin\Debug\netcoreapp3.1\SimpleComparingApp.pdb
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\obj\Debug\netcoreapp3.1\SimpleComparingApp.csprojAssemblyReference.cache
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\obj\Debug\netcoreapp3.1\SimpleComparingApp.AssemblyInfoInputs.cache
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\obj\Debug\netcoreapp3.1\SimpleComparingApp.AssemblyInfo.cs
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\obj\Debug\netcoreapp3.1\SimpleComparingApp.dll
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\obj\Debug\netcoreapp3.1\SimpleComparingApp.pdb
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\obj\Debug\netcoreapp3.1\SimpleComparingApp.genruntimeconfig.cache
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\bin\Debug\netcoreapp3.1\XmlDiffPatch.View.dll
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\bin\Debug\netcoreapp3.1\XmlDiffPatch.dll
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\obj\Debug\netcoreapp3.1\SimpleComparingApp.csproj.CoreCompileInputs.cache
+C:\Users\nikita.zhalkov\source\repos\SimpleComparingApp\SimpleComparingApp\obj\Debug\netcoreapp3.1\SimpleComparingApp.csproj.CopyComplete

@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SimpleComparingApp/1.0.0": {
+        "dependencies": {
+          "XMLDiffPatch": "1.0.8.28"
+        },
+        "runtime": {
+          "SimpleComparingApp.dll": {}
+        }
+      },
+      "XMLDiffPatch/1.0.8.28": {
+        "runtime": {
+          "lib/net/XmlDiffPatch.View.dll": {
+            "assemblyVersion": "1.0.1493.40755",
+            "fileVersion": "1.0.1493.40755"
+          },
+          "lib/net/XmlDiffPatch.dll": {
+            "assemblyVersion": "1.0.8.28",
+            "fileVersion": "1.0.8.28"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleComparingApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XMLDiffPatch/1.0.8.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YkheWbBdFWKmtexnCGm2KbKanXrGxfbQDtM3/W//D5CWqps7OLZD5Lfq95apb5Zv3NCMoFiwschSK5vS1EoMOw==",
+      "path": "xmldiffpatch/1.0.8.28",
+      "hashPath": "xmldiffpatch.1.0.8.28.nupkg.sha512"
+    }
+  }
+}

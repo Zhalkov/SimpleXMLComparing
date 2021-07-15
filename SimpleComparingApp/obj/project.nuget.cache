@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "6pSYi8pmLxiIGdzcONObev86qqV1T4zBNnqMDHPhkpXbzSaEfFDSrV3dk89wf4h12OAzs25gtdgzVA+C76cusQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikita.zhalkov\\source\\repos\\SimpleComparingApp\\SimpleComparingApp\\SimpleComparingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikita.zhalkov\\.nuget\\packages\\xmldiffpatch\\1.0.8.28\\xmldiffpatch.1.0.8.28.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XMLDiffPatch 1.0.8.28' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "XMLDiffPatch",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
